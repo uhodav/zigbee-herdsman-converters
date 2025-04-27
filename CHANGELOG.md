@@ -1,5 +1,13 @@
 # Changelog
 
+## [23.34.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.34.0...v23.34.1) (2025-04-27)
+
+
+### Bug Fixes
+
+* **ignore:** Remove and enforce `noUnusedImports` ([#9253](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9253)) ([b906518](https://github.com/Koenkk/zigbee-herdsman-converters/commit/b906518a0db0fc1e992bb14422e17ef63c4e8493))
+* SONOFF ZBM5-1C-120: fix state postfixed with endpoint name https://github.com/Koenkk/zigbee2mqtt/issues/27217 ([809dab8](https://github.com/Koenkk/zigbee-herdsman-converters/commit/809dab88aa66acc73e16dfd4cb7009d3b0cac78d))
+
 ## [23.34.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.33.0...v23.34.0) (2025-04-26)
 
 
